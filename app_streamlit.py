@@ -23,4 +23,5 @@ if st.button("Prediksi", type="primary"):
 
 st.divider()
 
-st.caption("Dibuat dengan :coffee: oleh *Daffa Tsaqiif P* love TONO")
+st.caption("Dibuat oleh Daffa Tsaqiif Pratama")
+
